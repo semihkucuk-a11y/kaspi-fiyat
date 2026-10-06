@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kaspi_catalog date="2026-10-06 16:09" xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+  <company>ИП АЛТАРА</company>
+  <merchantid>30356190</merchantid>
+  <offers>
+    <offer sku="035218364">
+      <model>Подгузники Gizmo 7, 28 шт</model>
+      <brand>gizmo</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>3490</price>
+    </offer>
+    <offer sku="036264732">
+      <model>Komili Ladik гель 500 мл</model>
+      <brand>Komili</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>990</price>
+    </offer>
+    <offer sku="084153122">
+      <model>Влажные полотенца Deep Fresh Чистящие салфетки для различных поверхностей 3 шт</model>
+      <brand>Deep Fresh</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>4990</price>
+    </offer>
+    <offer sku="103907231_967888966">
+      <model>Подгузники Gizmo 2, 78 шт</model>
+      <brand>gizmo</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>3490</price>
+    </offer>
+    <offer sku="103949672_086255633">
+      <model>Подгузники Gizmo 6, 34 шт</model>
+      <brand>gizmo</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>3990</price>
+    </offer>
+    <offer sku="103949673_290837439">
+      <model>Подгузники Gizmo 5, 42 шт</model>
+      <brand>gizmo</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>4490</price>
+    </offer>
+    <offer sku="103949676_350595206">
+      <model>Подгузники Gizmo 4, 58 шт</model>
+      <brand>gizmo</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>4370</price>
+    </offer>
+    <offer sku="103949679_975885592">
+      <model>Подгузники Gizmo 3, 66 шт</model>
+      <brand>gizmo</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>3490</price>
+    </offer>
+    <offer sku="104072932_512199527">
+      <model>Подгузники Taffy 2, 78 шт</model>
+      <brand>taffy</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>3490</price>
+    </offer>
+    <offer sku="104072933_885213432">
+      <model>Подгузники Taffy 3, 66 шт</model>
+      <brand>taffy</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>3590</price>
+    </offer>
+    <offer sku="104528670_674580042">
+      <model>Подгузники Taffy 4, 58 шт</model>
+      <brand>taffy</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>3490</price>
+    </offer>
+    <offer sku="105893220_878509674">
+      <model>Влажные салфетки Eli Антибактериальные 72 шт</model>
+      <brand>Eli</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>399</price>
+    </offer>
+    <offer sku="106357351_854855233">
+      <model>Влажные салфетки антибактериальные Eli, 120 шт</model>
+      <brand>eli</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>590</price>
+    </offer>
+    <offer sku="107708347_086311732">
+      <model>Влажные салфетки Eli Антибактериальные 120 шт</model>
+      <brand>eli</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>640</price>
+    </offer>
+    <offer sku="108079897_160378099">
+      <model>Подгузники Taffy 5, 42 шт</model>
+      <brand>Taffy</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>3090</price>
+    </offer>
+    <offer sku="108079898_929072518">
+      <model>Подгузники Taffy 6, 34 шт</model>
+      <brand>taffy</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>3290</price>
+    </offer>
+    <offer sku="108865709_432999666">
+      <model>Dr.Pedical DR10022023 подгузники для взрослых XL 30 шт</model>
+      <brand>dr-pedical</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>8490</price>
+    </offer>
+    <offer sku="108948516_298152755">
+      <model>Подгузники Gizmo 3, 264 шт</model>
+      <brand>Gizmo</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>13990</price>
+    </offer>
+    <offer sku="108948612_817859749">
+      <model>Подгузники Gizmo 5, 168 шт</model>
+      <brand>gizmo</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>16400</price>
+    </offer>
+    <offer sku="108948653_144838143">
+      <model>Подгузники Gizmo 7-18 кг, 174 шт</model>
+      <brand>gizmo</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>13170</price>
+    </offer>
+    <offer sku="108948735_103815589">
+      <model>Подгузники Gizmo 3, 132 шт</model>
+      <brand>gizmo</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>6990</price>
+    </offer>
+    <offer sku="108948746_100076173">
+      <model>Подгузники Gizmo 11-25 кг, 84 шт</model>
+      <brand>gizmo</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>8990</price>
+    </offer>
+    <offer sku="108948767_814280717">
+      <model>Подгузники Gizmo 16+ кг, 136 шт</model>
+      <brand>gizmo</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>15900</price>
+    </offer>
+    <offer sku="108948782_682577432">
+      <model>Подгузники Gizmo 3, 198 шт</model>
+      <brand>gizmo</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>10490</price>
+    </offer>
+    <offer sku="108948802_190988879">
+      <model>Подгузники Gizmo 6, 102 шт</model>
+      <brand>gizmo</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>13170</price>
+    </offer>
+    <offer sku="108948809_898844783">
+      <model>Подгузники Gizmo 5, 126 шт</model>
+      <brand>gizmo</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>13170</price>
+    </offer>
+    <offer sku="108948819_858831959">
+      <model>Подгузники Gizmo 4, 116 шт</model>
+      <brand>gizmo</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>8490</price>
+    </offer>
+    <offer sku="108948832_052326153">
+      <model>Подгузники Gizmo 6, 68 шт</model>
+      <brand>gizmo</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>7890</price>
+    </offer>
+    <offer sku="109720042_731861540">
+      <model>Влажные салфетки Eli Sensetive 120 шт</model>
+      <brand>eli</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>549</price>
+    </offer>
+    <offer sku="109828379_231215080">
+      <model>Подгузники Goon L, 52 шт</model>
+      <brand>goon</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>3990</price>
+    </offer>
+    <offer sku="109828414_680600066">
+      <model>Подгузники Goon M, 64 шт</model>
+      <brand>goon</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>3990</price>
+    </offer>
+    <offer sku="109828496_244385361">
+      <model>Трусики Goon XL, 36 шт</model>
+      <brand>goon</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>4490</price>
+    </offer>
+    <offer sku="109828532_072153155">
+      <model>Трусики Goon XXXL, 22 шт</model>
+      <brand>Goon</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>4590</price>
+    </offer>
+    <offer sku="109828590_074760635">
+      <model>Трусики Goon XXL, 30 шт</model>
+      <brand>goon</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>4490</price>
+    </offer>
+    <offer sku="109828767_001223884">
+      <model>Подгузники Goon XL, 40 шт</model>
+      <brand>goon</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>4490</price>
+    </offer>
+    <offer sku="109828832_136527649">
+      <model>Трусики Goon M, 50 шт</model>
+      <brand>goon</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>3990</price>
+    </offer>
+    <offer sku="109828905_261851618">
+      <model>Подгузники Goon S, 70 шт</model>
+      <brand>goon</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>3990</price>
+    </offer>
+    <offer sku="109828945_005892371">
+      <model>Трусики Goon L, 44 шт</model>
+      <brand>goon</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>3990</price>
+    </offer>
+    <offer sku="110651704_123754882">
+      <model>Влажные салфетки Eli 949914 120 шт</model>
+      <brand>eli</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>549</price>
+    </offer>
+    <offer sku="114856436_226569882">
+      <model>Подгузники Goon Premium 1, 20 шт</model>
+      <brand>goon</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1490</price>
+    </offer>
+    <offer sku="116468755_892204986">
+      <model>Eli тряпка 772196317 3 шт, вискоза</model>
+      <brand>Eli</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>270</price>
+    </offer>
+    <offer sku="117838565_838003411">
+      <model>Влажные салфетки Eli 063484677 72 шт</model>
+      <brand>eli</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>499</price>
+    </offer>
+    <offer sku="120036062_161621086">
+      <model>Масло Goon 200 мл</model>
+      <brand>goon</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1290</price>
+    </offer>
+    <offer sku="120036096_805008281">
+      <model>Лосьон Goon 200 мл</model>
+      <brand>goon</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1090</price>
+    </offer>
+    <offer sku="120039825_511035512">
+      <model>Deep Fresh Juicy Lady гель 1000 мл</model>
+      <brand>deep-fresh</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>990</price>
+    </offer>
+    <offer sku="120052578_286878246">
+      <model>Жидкое мыло туалетное Komili Свежесть лаванды 400 мл</model>
+      <brand>komili-tovary-dla-doma</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>490</price>
+    </offer>
+    <offer sku="120052585_193657953">
+      <model>Жидкое мыло туалетное Komili Миндальное молочко 400 мл</model>
+      <brand>komili-tovary-dla-doma</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>490</price>
+    </offer>
+    <offer sku="120052593_677445823">
+      <model>Жидкое мыло туалетное Komili Цветок оливы 400 мл</model>
+      <brand>komili-tovary-dla-doma</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>490</price>
+    </offer>
+    <offer sku="120052596_408448431">
+      <model>Жидкое мыло туалетное Komili Розовый сад 400 мл</model>
+      <brand>Komili</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>490</price>
+    </offer>
+    <offer sku="120052614_093956012">
+      <model>Жидкое мыло туалетное Deep Fresh Ваниль 1000 мл</model>
+      <brand>deep-fresh</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>790</price>
+    </offer>
+    <offer sku="120052619_960760013">
+      <model>Жидкое мыло туалетное Deep Fresh Гранат 1000 мл</model>
+      <brand>Deep Fresh</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>790</price>
+    </offer>
+    <offer sku="120052622_242139166">
+      <model>Жидкое мыло туалетное Deep Fresh Зеленое яблоко 1000 мл</model>
+      <brand>Deep Fresh</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>790</price>
+    </offer>
+    <offer sku="120052628_302342206">
+      <model>Жидкое мыло туалетное Deep Fresh Лаванда 1000 мл</model>
+      <brand>deep-fresh</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>790</price>
+    </offer>
+    <offer sku="120064043_448726949">
+      <model>Против перхоти 2 в 1 шампунь 500 мл</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>990</price>
+    </offer>
+    <offer sku="120083235_113898754">
+      <model>Komili For Normal Hair шампунь 500 мл</model>
+      <brand>komili-tovary-dla-doma</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>990</price>
+    </offer>
+    <offer sku="120083244_253155132">
+      <model>Komili 2 in1 For Normal Hair шампунь 500 мл</model>
+      <brand>komili-tovary-dla-doma</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>990</price>
+    </offer>
+    <offer sku="120768434_741742557">
+      <model>Влажные салфетки Deep Fresh 100 шт</model>
+      <brand></brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>2490</price>
+    </offer>
+    <offer sku="120796749_122966602">
+      <model>Deep Fresh Amino Acid Complex шампунь 1000 мл</model>
+      <brand>deep-fresh</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1190</price>
+    </offer>
+    <offer sku="120903270_822142090">
+      <model>Влажные салфетки Deep Fresh Для очистки поверхностей 100 шт</model>
+      <brand>deep-fresh</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>2490</price>
+    </offer>
+    <offer sku="121673083_300102048">
+      <model>Подгузники Goon S, 70 шт</model>
+      <brand>Goon</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>4490</price>
+    </offer>
+    <offer sku="121673372_325742711">
+      <model>Подгузники Goon M, 64 шт</model>
+      <brand>Goon</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>4490</price>
+    </offer>
+    <offer sku="121673645_220505950">
+      <model>Подгузники Goon XL, 40 шт</model>
+      <brand>Goon</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>4490</price>
+    </offer>
+    <offer sku="121694335_962016393">
+      <model>Влажные салфетки Eli Sensitive 72 шт</model>
+      <brand>Eli</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>399</price>
+    </offer>
+    <offer sku="121694551_882969231">
+      <model>Влажные салфетки Eli Sensetive 120 шт</model>
+      <brand>Eli</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>790</price>
+    </offer>
+    <offer sku="123632140_305328568">
+      <model>Подгузники Goon Premium XS, 72 шт</model>
+      <brand>goon</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>3890</price>
+    </offer>
+    <offer sku="123730869_914939584">
+      <model>Подгузники Goon Premium M, 64 шт</model>
+      <brand>goon</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>3990</price>
+    </offer>
+    <offer sku="123731266_886688456">
+      <model>Подгузники Goon Premium XL, 40 шт</model>
+      <brand>goon</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>4490</price>
+    </offer>
+    <offer sku="123731924_196315795">
+      <model>Подгузники-трусики Goon Premium M, 50 шт</model>
+      <brand>goon</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>3990</price>
+    </offer>
+    <offer sku="123732385_743626720">
+      <model>Трусики Goon Premium XXXL, 22 шт</model>
+      <brand>Goon</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>4590</price>
+    </offer>
+    <offer sku="128876519_931751841">
+      <model>HES 3 л</model>
+      <brand></brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>2290</price>
+    </offer>
+    <offer sku="129077525_960519621">
+      <model>HES Для цветных тканей 3 л</model>
+      <brand>hes</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>2990</price>
+    </offer>
+    <offer sku="129140590_876339974">
+      <model>HES гель Lemon 4</model>
+      <brand>hes</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>2890</price>
+    </offer>
+    <offer sku="129142101_499662273">
+      <model>HES Лванда 2.5 2.5</model>
+      <brand>hes</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1939</price>
+    </offer>
+    <offer sku="129321474_337805483">
+      <model>Подгузники Goon Premium M, 64 шт</model>
+      <brand>goon</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>3990</price>
+    </offer>
+    <offer sku="129333630_264030041">
+      <model>Трусики Goon Premium XXL, 30 шт</model>
+      <brand>goon</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>4490</price>
+    </offer>
+    <offer sku="129683386_138638117">
+      <model>Подгузники Gizmo 5, 42 шт</model>
+      <brand>gizmo</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>3990</price>
+    </offer>
+    <offer sku="129683603_756078583">
+      <model>Подгузники Gizmo 4, 58 шт</model>
+      <brand>gizmo</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>4490</price>
+    </offer>
+    <offer sku="130229314_405467949">
+      <model>Жидкое мыло туалетное Komili Букет мимозы 400 мл</model>
+      <brand>komili-tovary-dla-doma</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>490</price>
+    </offer>
+    <offer sku="154866118">
+      <model>Hes Premium Средство Для Мытья Посуды 1000 Мл</model>
+      <brand>HES</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1190</price>
+    </offer>
+    <offer sku="181248722">
+      <model>Komili Bergama гель 500 мл</model>
+      <brand>komili-tovary-dla-doma</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>890</price>
+    </offer>
+    <offer sku="181341355">
+      <model>Тряпка Универсальная 1 шт, микрофибра</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>790</price>
+    </offer>
+    <offer sku="199975987">
+      <model>Deep Fresh Biotin &amp; Keratin: Восстановление и укрепление волос шампунь 1000 мл</model>
+      <brand>Deep Fresh</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1290</price>
+    </offer>
+    <offer sku="213640690">
+      <model>Влажные салфетки Eli 213640690 72 шт</model>
+      <brand>Eli</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>410</price>
+    </offer>
+    <offer sku="222170262">
+      <model>Мыльные пузыри Bubble Stick ‘Поезд’, набор 24 шт — для витрины/магазина</model>
+      <brand>china-toys</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>4490</price>
+    </offer>
+    <offer sku="224065759">
+      <model>Dr. Pedical впитывающие пеленки 60×90 см, 30 шт</model>
+      <brand>dr-pedical</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>3990</price>
+    </offer>
+    <offer sku="231190253">
+      <model>Насадка на швабру MOP-40-GRAYSTRIPE, мультиколор</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>990</price>
+    </offer>
+    <offer sku="245300483">
+      <model>Deep Fresh Lavender &amp; Orchid / Лаванда и Орхидея гель 1000 мл</model>
+      <brand>Deep Fresh</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1190</price>
+    </offer>
+    <offer sku="252848438">
+      <model>HES гель Яблоко 4 кг</model>
+      <brand>hes</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>2990</price>
+    </offer>
+    <offer sku="261635577">
+      <model>Gizmo Clean Влажные салфетки для уборки 100 шт – Белое мыло</model>
+      <brand>gizmo</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>2990</price>
+    </offer>
+    <offer sku="266076862">
+      <model>Универсальная Микрофибра Silver Home 50x70 См, Серая</model>
+      <brand>Silver Home</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>790</price>
+    </offer>
+    <offer sku="326652278">
+      <model></model>
+      <brand>gizmo</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>6990</price>
+    </offer>
+    <offer sku="328326863">
+      <model>Мыльные пузыри Bubble Stick «Дельфин», набор 24 шт — для витрины/магазина</model>
+      <brand>china-toys</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>4490</price>
+    </offer>
+    <offer sku="344045870">
+      <model>Komili Flower Therapy гель 500 мл</model>
+      <brand>komili-tovary-dla-doma</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>990</price>
+    </offer>
+    <offer sku="354966005">
+      <model>Тряпка Универсальная 1 шт, микрофибра</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>790</price>
+    </offer>
+    <offer sku="371182215">
+      <model>Komili Peach Dream гель 500 мл</model>
+      <brand>komili-tovary-dla-doma</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>990</price>
+    </offer>
+    <offer sku="372561076">
+      <model>Насадка на швабру COTTON-40-WH, белый</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1990</price>
+    </offer>
+    <offer sku="376878828">
+      <model>Игрушка Строительная Машина Бетономешалка – Инерционная, 1 Шт</model>
+      <brand>china-toys</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>590</price>
+    </offer>
+    <offer sku="378825395">
+      <model>HES Кондиционер для белья с ароматом лаванды, 1 л</model>
+      <brand>HES</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1190</price>
+    </offer>
+    <offer sku="400770411">
+      <model>Швабра MOP-50, зеленый</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>890</price>
+    </offer>
+    <offer sku="401825862">
+      <model>Салфетка SB-CW-3IN1 3 шт</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>2890</price>
+    </offer>
+    <offer sku="403329452">
+      <model>Ылғал тазалағыш сулықтар Gizmo Clean, 100 дана / влажные салфетки для уборки Gizmo Clean, 100 шт, лаванда</model>
+      <brand>gizmo</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>2990</price>
+    </offer>
+    <offer sku="410627671">
+      <model>Мини-игровой автомат с шариками, набор 12 шт — для витрины/магазина</model>
+      <brand>china-toys</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>4990</price>
+    </offer>
+    <offer sku="430951808">
+      <model>Однорукий бандит круглый с шариками, набор 12 шт — для витрины/магазина</model>
+      <brand>china-toys</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>4990</price>
+    </offer>
+    <offer sku="440164544">
+      <model>Мыльные пузыри Bubble Stick ‘Зайчик’, набор 24 шт — для витрины/магазина</model>
+      <brand>china-toys</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>4490</price>
+    </offer>
+    <offer sku="468506160">
+      <model>Швабра MOP-50-BLUE, синий</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>990</price>
+    </offer>
+    <offer sku="473712150">
+      <model>Насадка на швабру MOP-40-WHITE, белый</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>990</price>
+    </offer>
+    <offer sku="497627450">
+      <model>Gizlife X-Large Подгузники Для Взрослых 30 Шт</model>
+      <brand>gizlife</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>8499</price>
+    </offer>
+    <offer sku="499825073">
+      <model>Игрушка с мыльными пузырями Carilo Animal (24 шт)</model>
+      <brand>china-toys</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>4390</price>
+    </offer>
+    <offer sku="502065272">
+      <model>Насадка на швабру MOP-50-GREEN-C, зеленый</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1990</price>
+    </offer>
+    <offer sku="506667517">
+      <model>HES Стиральный гель для цветного белья, 3 л (50 стирок)</model>
+      <brand>HES</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>2290</price>
+    </offer>
+    <offer sku="526714624">
+      <model>Насадка на швабру MOP-40-MULTI, мультиколор</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>990</price>
+    </offer>
+    <offer sku="546118999">
+      <model>Carilo Bubble Stick Мыльные Пузыри Принцесса 6*24</model>
+      <brand>china-toys</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>4490</price>
+    </offer>
+    <offer sku="596243959">
+      <model>HES White 3 л</model>
+      <brand>HES</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>2375</price>
+    </offer>
+    <offer sku="606791475">
+      <model>Подгузники Gizmo 7, 56 шт</model>
+      <brand>gizmo</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>6990</price>
+    </offer>
+    <offer sku="617857065">
+      <model></model>
+      <brand>goon</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1290</price>
+    </offer>
+    <offer sku="617942326">
+      <model>Komili Anti-Stress гель 500 мл</model>
+      <brand>komili-tovary-dla-doma</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1190</price>
+    </offer>
+    <offer sku="627307019">
+      <model>Насадка на швабру COTTON-50-BLUESTRIPE, мультиколор</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1990</price>
+    </offer>
+    <offer sku="639689521">
+      <model>Мыльные пузыри Bubble Stick «Мороженое», набор 24 шт — для витрины/магазина</model>
+      <brand>china-toys</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>4490</price>
+    </offer>
+    <offer sku="643457790">
+      <model>Детское масло без отдушек GOO.N, 200 мл</model>
+      <brand>goon</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1290</price>
+    </offer>
+    <offer sku="647466702">
+      <model>Су Бластер Ойыншық – Балаларға Арналған Су Пистолеті, 1 Дана   Игрушка Водяной Бластер – Пистолет для Игр с Водой, 1 Шт</model>
+      <brand>china-toys</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>690</price>
+    </offer>
+    <offer sku="655124773">
+      <model>Гель для душа DeepFresh Crystal Fresh Menthol, 1000 мл</model>
+      <brand>deep-fresh</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1290</price>
+    </offer>
+    <offer sku="674420426">
+      <model>Набор двусторонних маркеров Carilo, 24 цвета, чёрный футляр</model>
+      <brand>Carilo</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1190</price>
+    </offer>
+    <offer sku="686796088">
+      <model>Komili Для Сухих И Поврежденных Волос шампунь 500 мл</model>
+      <brand>komili-tovary-dla-doma</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>990</price>
+    </offer>
+    <offer sku="701026725">
+      <model>Deep Fresh Crystal Oud &amp; Rose гель 1000 мл</model>
+      <brand>Deep Fresh</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1390</price>
+    </offer>
+    <offer sku="701246900">
+      <model>Насадка на швабру MOP-50-WHITE, белый</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1990</price>
+    </offer>
+    <offer sku="743979474">
+      <model>Komili Energy гель 500 мл</model>
+      <brand>komili-tovary-dla-doma</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1190</price>
+    </offer>
+    <offer sku="761018634">
+      <model>Мыльные пузыри Bubble Stick ‘Пони’, набор 24 шт — для витрины/магазина</model>
+      <brand></brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>4490</price>
+    </offer>
+    <offer sku="774738092">
+      <model>Komili Анти Перхоть 2в1 шампунь 500 мл</model>
+      <brand>komili-tovary-dla-doma</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>990</price>
+    </offer>
+    <offer sku="776564756">
+      <model>Жидкое мыло туалетное Deep Fresh Жидкое Мыло Для Рук Мускус 1000 Мл 1000 мл</model>
+      <brand>Deep Fresh</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>890</price>
+    </offer>
+    <offer sku="779933992">
+      <model>Насадка на швабру COTTON-50-WH, белый</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>990</price>
+    </offer>
+    <offer sku="781530063">
+      <model>Стиральный порошок HALK Halk matik 3 кг</model>
+      <brand>halk-tovary-dla-doma</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>2690</price>
+    </offer>
+    <offer sku="801246516">
+      <model>ниверсальная микрофибра Silver Home 40 x 40</model>
+      <brand>Silver Home</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>590</price>
+    </offer>
+    <offer sku="862248368">
+      <model>HES Средство для мытья полов Лаванда, 2.5 л</model>
+      <brand>HES</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1590</price>
+    </offer>
+    <offer sku="886491083">
+      <model>Насадка на швабру MOP-40-GREENSTRIPE, мультиколор</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1990</price>
+    </offer>
+    <offer sku="896930300">
+      <model>Тряпка Универсальная 1 шт, микрофибра</model>
+      <brand>Без бренда</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>590</price>
+    </offer>
+    <offer sku="900523178">
+      <model>Стиральный порошок HALK для белых и светлых тканей Matik 9 кг</model>
+      <brand>halk-tovary-dla-doma</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>7490</price>
+    </offer>
+    <offer sku="914149958">
+      <model>Детский лосьон без отдушки GOO.N, 200 мл</model>
+      <brand>goon</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1090</price>
+    </offer>
+    <offer sku="923468772">
+      <model>Подгузники Goon S, 18 шт</model>
+      <brand>goon</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1490</price>
+    </offer>
+    <offer sku="928358230">
+      <model>HES гель Лимон 4 кг</model>
+      <brand>hes</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>2890</price>
+    </offer>
+    <offer sku="936187101">
+      <model>Универсальная микрофибра Silver Home 40x40 см</model>
+      <brand>Silver Home</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>590</price>
+    </offer>
+    <offer sku="CAR-DIECAST4">
+      <model>Carilo Набор игрушечных машинок, 4 шт</model>
+      <brand>carilo</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>890</price>
+    </offer>
+    <offer sku="CAR-SET5">
+      <model>Carilo Kids Канцелярский набор 5 предметов</model>
+      <brand>carilo</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>590</price>
+    </offer>
+    <offer sku="CAR-SET5-PNK">
+      <model>Carilo Kids Канцелярский набор 5 предметов, розовый</model>
+      <brand>carilo</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>590</price>
+    </offer>
+    <offer sku="CAR-SET9-BLU">
+      <model>Carilo Kids Канцелярский набор 9 предметов, синий</model>
+      <brand>carilo</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>990</price>
+    </offer>
+    <offer sku="CAR-SET9-PNK">
+      <model>Carilo Kids Канцелярский набор 9 предметов, розовый</model>
+      <brand>carilo</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>990</price>
+    </offer>
+    <offer sku="KOM-BAD-1.5L">
+      <model></model>
+      <brand>komili-tovary-dla-doma</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1590</price>
+    </offer>
+    <offer sku="KOM-GUL-1.5L">
+      <model></model>
+      <brand>Komili</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1590</price>
+    </offer>
+    <offer sku="KOM-GUL-3L">
+      <model></model>
+      <brand>komili-tovary-dla-doma</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1590</price>
+    </offer>
+    <offer sku="KOM-LAV-1.5L">
+      <model></model>
+      <brand>Komili</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1590</price>
+    </offer>
+    <offer sku="KOM-MIM-1.5L">
+      <model></model>
+      <brand>Komili</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1590</price>
+    </offer>
+    <offer sku="KOM-MIM-3L">
+      <model></model>
+      <brand>Komili</brand>
+      <availabilities>
+        <availability available="no" storeId="PP1" stockCount="0"/>
+      </availabilities>
+      <price>1590</price>
+    </offer>
+  </offers>
+</kaspi_catalog>
